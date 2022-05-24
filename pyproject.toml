@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "importnow"
 version = "0.1.0"
-description = ""
+description = "import for chads https://github.com/msaroufim/importnow"
 authors = ["Mark Saroufim <marksaroufim@fb.com>"]
 
 [tool.poetry.dependencies]
