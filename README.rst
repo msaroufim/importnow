@@ -2,7 +2,7 @@
 ===========================================
 
 ``importnow(torch)``
-``IMPORT(numpy)``
+``importnow(numpy)``
 
 
 This error is for losers ``ImportError: No module named``
